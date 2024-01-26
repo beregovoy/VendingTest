@@ -1,0 +1,8 @@
+docker/db
+.idea
+docker/config/nginx/logs
+docker/rabbitmq
+docker/redis
+src/vendor
+.env.local
+.env
